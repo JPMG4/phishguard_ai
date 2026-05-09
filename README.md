@@ -68,7 +68,7 @@ $env:POPPLER_PATH = "C:\Program Files\poppler-24.02.0\Library\bin"
 python -m streamlit run interfaces/app.py
 ```
 
-Open the URL shown in the terminal (default: http://localhost:8501).
+Open the URL shown in the terminal (default)
 
 ## Train the ML Baseline
 
