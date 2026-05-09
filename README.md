@@ -1,5 +1,9 @@
 # PhishGuard AI
 
+[![Python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/streamlit-1.x-red)](https://streamlit.io/)
+[![OCR](https://img.shields.io/badge/OCR-Tesseract-green)](https://github.com/tesseract-ocr/tesseract)
+
 PhishGuard AI is a defensive, educational phishing detector that analyzes URLs, text messages, screenshots, and PDFs to flag common phishing signals. It combines rule-based heuristics with a lightweight ML baseline to provide a clear risk level and explainable reasons.
 
 ## Highlights
