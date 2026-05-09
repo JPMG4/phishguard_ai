@@ -1,0 +1,242 @@
+[
+  {
+    "label": "phishing",
+    "url": "https://bit.ly/secure-login",
+    "text": "Su cuenta sera suspendida, verifique ahora",
+    "language": "es",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "benign",
+    "url": "https://www.example.com/estado-cuenta",
+    "text": "Aviso mensual de estados de cuenta disponible",
+    "language": "es",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "phishing",
+    "url": "http://198.51.100.23/login",
+    "text": "Actualice su contrasena para evitar bloqueo inmediato",
+    "language": "es",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "benign",
+    "url": "https://www.example.org/newsletter",
+    "text": "Resumen semanal de noticias internas",
+    "language": "es",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "phishing",
+    "url": "https://secure-example.com/verify",
+    "text": "Your account is locked, verify now",
+    "language": "en",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "benign",
+    "url": "https://www.example.com/help",
+    "text": "Support ticket update: your request was received",
+    "language": "en",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "phishing",
+    "url": "http://xn--paypa-7ve.example/confirm",
+    "text": "Confirm your payment to avoid suspension",
+    "language": "en",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "benign",
+    "url": "https://intranet.example.com",
+    "text": "Meeting agenda attached for tomorrow",
+    "language": "en",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "phishing",
+    "url": "https://example.com/reset?token=abc",
+    "text": "Restablecer su acceso urgente, use el enlace",
+    "language": "es",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "benign",
+    "url": "",
+    "text": "Recordatorio de capacitacion de seguridad interna",
+    "language": "es",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "phishing",
+    "url": "https://tinyurl.com/update-login",
+    "text": "Verifica tu cuenta ahora para evitar suspension",
+    "language": "es",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "benign",
+    "url": "https://www.example.com/policy",
+    "text": "Actualizacion de politicas internas",
+    "language": "es",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "phishing",
+    "url": "http://203.0.113.10/secure",
+    "text": "Su pago fue rechazado, confirme datos",
+    "language": "es",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "benign",
+    "url": "https://blog.example.org/post",
+    "text": "Boletin mensual de novedades",
+    "language": "es",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "phishing",
+    "url": "https://example.com/verify?account=123",
+    "text": "Confirmar credenciales de acceso",
+    "language": "es",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "benign",
+    "url": "",
+    "text": "Recordatorio de reunion semanal del equipo",
+    "language": "es",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "phishing",
+    "url": "http://xn--banco-9za.example/reset",
+    "text": "Restablecer pin urgente",
+    "language": "es",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "benign",
+    "url": "https://portal.example.com",
+    "text": "Acceso al portal de empleados",
+    "language": "es",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "phishing",
+    "url": "https://cutt.ly/abc123",
+    "text": "Actualice su informacion para recibir el premio",
+    "language": "es",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "benign",
+    "url": "https://www.example.net/helpdesk",
+    "text": "Ticket resuelto, revise el detalle",
+    "language": "es",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "phishing",
+    "url": "https://t.co/verify-now",
+    "text": "Verify your account now to avoid lock",
+    "language": "en",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "benign",
+    "url": "https://status.example.com",
+    "text": "Weekly status update",
+    "language": "en",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "phishing",
+    "url": "http://198.51.100.99/pay",
+    "text": "Payment failed, update card details",
+    "language": "en",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "benign",
+    "url": "https://docs.example.org",
+    "text": "Documentation update for internal tools",
+    "language": "en",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "phishing",
+    "url": "https://example.net/login/secure",
+    "text": "Immediate action required to restore access",
+    "language": "en",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "benign",
+    "url": "",
+    "text": "Lunch and learn invitation",
+    "language": "en",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "phishing",
+    "url": "https://goo.gl/abcde",
+    "text": "You won a prize, claim now",
+    "language": "en",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "benign",
+    "url": "https://calendar.example.com",
+    "text": "Meeting reminder for tomorrow",
+    "language": "en",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "phishing",
+    "url": "http://example.com@malicious.example/secure",
+    "text": "Security team needs verification",
+    "language": "en",
+    "date": "2026-05-06",
+    "source": "simulated"
+  },
+  {
+    "label": "benign",
+    "url": "https://intranet.example.net/news",
+    "text": "Internal newsletter edition",
+    "language": "en",
+    "date": "2026-05-06",
+    "source": "simulated"
+  }
+]

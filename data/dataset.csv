@@ -1,0 +1,31 @@
+label,url,text,language,date,source
+phishing,https://bit.ly/secure-login,"Su cuenta sera suspendida, verifique ahora",es,2026-05-06,simulated
+benign,https://www.example.com/estado-cuenta,"Aviso mensual de estados de cuenta disponible",es,2026-05-06,simulated
+phishing,http://198.51.100.23/login,"Actualice su contrasena para evitar bloqueo inmediato",es,2026-05-06,simulated
+benign,https://www.example.org/newsletter,"Resumen semanal de noticias internas",es,2026-05-06,simulated
+phishing,https://secure-example.com/verify,"Your account is locked, verify now",en,2026-05-06,simulated
+benign,https://www.example.com/help,"Support ticket update: your request was received",en,2026-05-06,simulated
+phishing,http://xn--paypa-7ve.example/confirm,"Confirm your payment to avoid suspension",en,2026-05-06,simulated
+benign,https://intranet.example.com,"Meeting agenda attached for tomorrow",en,2026-05-06,simulated
+phishing,https://example.com/reset?token=abc,"Restablecer su acceso urgente, use el enlace",es,2026-05-06,simulated
+benign,,"Recordatorio de capacitacion de seguridad interna",es,2026-05-06,simulated
+phishing,https://tinyurl.com/update-login,"Verifica tu cuenta ahora para evitar suspension",es,2026-05-06,simulated
+benign,https://www.example.com/policy,"Actualizacion de politicas internas",es,2026-05-06,simulated
+phishing,http://203.0.113.10/secure,"Su pago fue rechazado, confirme datos",es,2026-05-06,simulated
+benign,https://blog.example.org/post,"Boletin mensual de novedades",es,2026-05-06,simulated
+phishing,https://example.com/verify?account=123,"Confirmar credenciales de acceso",es,2026-05-06,simulated
+benign,,"Recordatorio de reunion semanal del equipo",es,2026-05-06,simulated
+phishing,http://xn--banco-9za.example/reset,"Restablecer pin urgente",es,2026-05-06,simulated
+benign,https://portal.example.com,"Acceso al portal de empleados",es,2026-05-06,simulated
+phishing,https://cutt.ly/abc123,"Actualice su informacion para recibir el premio",es,2026-05-06,simulated
+benign,https://www.example.net/helpdesk,"Ticket resuelto, revise el detalle",es,2026-05-06,simulated
+phishing,https://t.co/verify-now,"Verify your account now to avoid lock",en,2026-05-06,simulated
+benign,https://status.example.com,"Weekly status update",en,2026-05-06,simulated
+phishing,http://198.51.100.99/pay,"Payment failed, update card details",en,2026-05-06,simulated
+benign,https://docs.example.org,"Documentation update for internal tools",en,2026-05-06,simulated
+phishing,https://example.net/login/secure,"Immediate action required to restore access",en,2026-05-06,simulated
+benign,,"Lunch and learn invitation",en,2026-05-06,simulated
+phishing,https://goo.gl/abcde,"You won a prize, claim now",en,2026-05-06,simulated
+benign,https://calendar.example.com,"Meeting reminder for tomorrow",en,2026-05-06,simulated
+phishing,http://example.com@malicious.example/secure,"Security team needs verification",en,2026-05-06,simulated
+benign,https://intranet.example.net/news,"Internal newsletter edition",en,2026-05-06,simulated
